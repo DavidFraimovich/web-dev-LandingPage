@@ -1,0 +1,23 @@
+.home {
+  text-align: center;
+  padding-top: 319px;
+  padding-bottom: 335px;
+  color: white;
+  background: url(../images/home/home-bg.png) center / cover no-repeat;
+
+  &__title {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+
+  &__descr {
+    margin: 0 auto;
+    max-width: 829px;
+    margin-bottom: 50px;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+  }
+}
